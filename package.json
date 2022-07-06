@@ -1,0 +1,19 @@
+{
+  "name": "bao",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "react": "17"
+  },
+  "scripts": {
+    "hi": "bun hi.ts",
+    "http": "bun http.ts",
+    "db": "bun db.ts",
+    "next": "./next.sh",
+    "nextjs": "bun run next"
+  },
+  "eslintConfig": {
+    "extends": []
+  },
+  "devDependencies": {}
+}

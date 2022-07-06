@@ -1,0 +1,17 @@
+{
+  "name": "nextjs",
+  "version": "0.0.52",
+  "main": "index.js",
+  "dependencies": {
+    "next": "12.1.3",
+    "react": "^17",
+    "react-dom": "^17",
+    "react-is": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "bun-framework-next": "^12",
+    "typescript": "latest",
+    "react-refresh": "0.10.0"
+  }
+}
